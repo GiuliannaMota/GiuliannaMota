@@ -2,8 +2,8 @@
 
 <div>
   <a href=http://github.com/giuliannamota"/>
-  <img height= "150cm" src="https://github-readme-stats.vercel.app/api?username=giuliannamota&show_icons=true&theme=tokyonight">
-  <img height = "150cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuliannamota&layout_count=16&theme=tokyonight"/>
+  <img height= "140cm" src="https://github-readme-stats.vercel.app/api?username=giuliannamota&show_icons=true&theme=tokyonight">
+  <img height = "140cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuliannamota&layout_count=16&theme=tokyonight"/>
 </div>
 
 ##
