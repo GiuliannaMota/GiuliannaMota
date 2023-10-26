@@ -1,16 +1,14 @@
-### Hi there 👋
+## Oii eu sou a Giulianna Mota, estudante de Sistemas de Informação e programadora!
 
-<!--
-**GiuliannaMota/GiuliannaMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href=http://github.com/giuliannamota"/>
+  <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=giuliannamota&show_icons=true&theme=tokyonight">
+  <img height = "180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuliannamota&layout_count=16&theme=tokyonight"/>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href = "mailto:giuliannamota1984@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
